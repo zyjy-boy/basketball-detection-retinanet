@@ -121,7 +121,7 @@ basketball-detection-retinanet/
 ## 📊 实验结果展示
 
 ### Precision-Recall曲线
-![PR曲线](results/images/pr_curve.png)
+![PR曲线](results/images/pr_curve_expC.png)
 
 ### 轨迹对比
 ![轨迹对比](results/images/轨迹对比图.png)
