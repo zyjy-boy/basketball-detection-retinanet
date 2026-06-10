@@ -104,6 +104,4 @@ basketball-detection-retinanet/
 
 如有问题或建议，欢迎通过GitHub Issues交流。
 
----
 
-*本项目为本科毕业设计，完成于2025年。*
