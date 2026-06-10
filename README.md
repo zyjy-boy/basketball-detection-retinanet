@@ -102,6 +102,7 @@ basketball-detection-retinanet/
 
 ## 📧 联系方式
 
-如有问题或建议，欢迎通过GitHub Issues交流。
+如有需要数据集与模型或有问题、建议，欢迎通过GitHub Issues交流。
+
 
 
