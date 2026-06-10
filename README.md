@@ -78,7 +78,7 @@ basketball-detection-retinanet/
 ![场景检测](results/images/场景检测结果.png)
 
 ### 检测演示视频
-📹 [查看检测演示视频](results/videos/detection_demo.mp4)
+📹 [查看检测演示视频](results/videos/detection_demo.mp4.mp4)
 
 ## 🔍 核心难点分析
 
