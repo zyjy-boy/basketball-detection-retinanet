@@ -1,0 +1,59 @@
+# Python缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 模型权重文件（大文件）
+*.pth
+*.pt
+*.h5
+*.pkl
+*.onnx
+
+# 数据集（大文件）
+data/
+datasets/
+images/
+labels/
+
+# 视频文件（如果太大）
+# *.mp4
+# *.avi
+# *.mov
+
+# 日志文件
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+tmp/
+temp/
+*.tmp
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 输出文件
+output/
+outputs/
+runs/
+
+# 个人配置文件（包含敏感信息）
+config_private.py
+secrets.py
